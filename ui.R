@@ -33,7 +33,7 @@ list(tags$style(HTML(".navbar-default .navbar-nav { font-weight: bold; font-size
  
    
 ### Page title 
-titlePanel("scREPAIR: Expression Data"),  
+titlePanel("Cell Annotation and Gene Expression"),  
 navbarPage( 
   NULL,  
  navbarMenu("All Cells",### Tab1.a1: cellInfo vs geneExpr on dimRed 
